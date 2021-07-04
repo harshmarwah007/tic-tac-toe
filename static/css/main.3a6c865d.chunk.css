@@ -1,0 +1,2 @@
+body{background-color:#000}.grid{display:grid;grid-template-columns:1fr 1fr 1fr;grid-gap:15px}.box{width:auto;height:100px;display:-webkit-flex;display:flex;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;align-items:center}.icon{font-size:35px;color:#000}.block{width:100%}.won{color:#9acd32;font-size:50px}
+/*# sourceMappingURL=main.3a6c865d.chunk.css.map */
